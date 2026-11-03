@@ -1,0 +1,9 @@
+{
+  "api_url": "http://127.0.0.1:8765/ingest",
+  "health_url": "http://127.0.0.1:8765/health",
+  "channels": ["Security", "System", "Application"],
+  "poll_interval_seconds": 5,
+  "batch_size": 50,
+  "lookback_minutes_on_start": 10,
+  "request_timeout_seconds": 5
+}
