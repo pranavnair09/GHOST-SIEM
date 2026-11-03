@@ -1,4 +1,5 @@
 # GHOST-SIEM
+<<<<<<< HEAD
 **Mini SIEM & Windows Log Forwarder**  
 A local-only educational SIEM built with PowerShell, Python, FastAPI, SQLite and Streamlit.
 
@@ -115,3 +116,6 @@ GHOST-SIEM/
 ├── requirements.txt
 └── README.md
 ```
+=======
+Lightweight SIEM using PowerShell, Python and Streamlit for Windows Security Event Log monitoring.
+>>>>>>> b443f6a2d3ffdee37b772a4e6d746c45111f03d2
